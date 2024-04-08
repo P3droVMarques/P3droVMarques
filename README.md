@@ -10,9 +10,10 @@ Tenho 17 anos, sou apaixonado por tecnologia e programação. Atualmente estou n
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo.mdm/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marques-6295242ba/)
 
-## Top Languages:
+## Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&hide_progress=true&theme=neon)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3droVMarques&show_icons=true&theme=neon)
 
 ## Tecnologias que uso 👨‍💻:
 
