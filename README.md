@@ -2,7 +2,7 @@
 
 ###### obs: Esse perfil é novo, o meu foi hackeado, porém transferi todos os projetos do meu github antigo para esse aqui, que está mais aprimorado.
 
-## Sobre mim // About me:
+## Sobre mim:
 Tenho 17 anos, sou apaixonado por tecnologia e programação. Atualmente estou no meu primeiro período de Analise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e estou em busca do primeiro emprego na área de Desenvolvimento web e Análise de Dados.
 
 ## Follow me:
@@ -12,7 +12,7 @@ Tenho 17 anos, sou apaixonado por tecnologia e programação. Atualmente estou n
 
 ## Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&hide_progress=true&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&layout=donut&theme=neon)
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3droVMarques&show_icons=true&theme=neon)
 
 ## Tecnologias que uso 👨‍💻:
