@@ -1,7 +1,5 @@
 # Olá! Eu sou Pedro 😁
 
-###### obs: Esse perfil é novo, o meu foi hackeado, porém transferi todos os projetos do meu github antigo para esse aqui, que está mais aprimorado.
-
 ## Sobre mim:
 Tenho 18 anos, sou apaixonado por tecnologia e programação. Atualmente estou no meu primeiro período de Analise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e estou em busca do primeiro emprego na área de Desenvolvimento web e Análise de Dados.
 
