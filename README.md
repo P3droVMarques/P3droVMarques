@@ -1,7 +1,7 @@
 # Olá! Eu sou Pedro 😁
 
 ## Sobre mim:
-Tenho 18 anos, sou apaixonado por tecnologia e programação. Atualmente estou no meu primeiro período de Analise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e estou em busca do primeiro emprego na área de Desenvolvimento web e Análise de Dados.
+Tenho 19 anos, sou apaixonado por tecnologia e programação. Atualmente estou no meu primeiro período de Analise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e estou em busca do primeiro emprego na área de Desenvolvimento web.
 
 ## Follow me:
 
@@ -15,5 +15,5 @@ Tenho 18 anos, sou apaixonado por tecnologia e programação. Atualmente estou n
 ## Tecnologias que uso 👨‍💻:
 
 <div align = center>
-  <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,tailwind,git,github,javascript"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,tailwind,git,github,javascript,sass,react,vite"/>
 </div>
