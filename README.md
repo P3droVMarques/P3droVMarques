@@ -15,5 +15,5 @@ Tenho 19 anos, sou apaixonado por tecnologia e programação. Atualmente estou n
 ## Tecnologias que uso 👨‍💻:
 
 <div align = center>
-  <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,tailwind,git,github,javascript,sass,react,vite"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,tailwind,git,github,javascript,sass,react,vite,NPM,Yarn"/>
 </div>
