@@ -1,7 +1,7 @@
 # Hi! I am Pedro 😁
 
 ## About me:
-I am 19 years old. I am a System Development Student in constant learning focused on web development. Currently I am searching for networking and job opportunities.
+I am 19 years old. I am a Software Engineering Student in constant learning focused on web development. Currently I am searching for networking and job opportunities.
 
 #### Feel free to follow me 😉:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo.mdm/)
