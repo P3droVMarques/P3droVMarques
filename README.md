@@ -18,8 +18,7 @@ I am 19 years old. I am a Software Engineering Student in constant learning focu
 </div>
 
 ## Stats 📊:
-![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&layout=donut&theme=aura#gh-dark-mode-only)
-![Pedro's GitHub stats stats-Dark](https://github-readme-stats.vercel.app/api?username=P3droVMarques&show_icons=true&theme=aura#gh-dark-mode-only)
+![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&layout=compact&theme=aura#gh-dark-mode-only)
 
 
 
