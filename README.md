@@ -13,7 +13,7 @@ I am 19 years old. I am a Software Engineering Student in constant learning focu
   <img src="https://skillicons.dev/icons?i=mysql,html,css,tailwind,javascript,react,typescript,nodejs"/>
   </div>
   <div align = center>
-  <img src="https://skillicons.dev/icons?i=,,vite,yarn,git,github,npm,notion,,"/>
+  <img src="https://skillicons.dev/icons?i=,,vite,yarn,git,github,npm,express,,"/>
   </div>
 </div>
 
