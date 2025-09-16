@@ -10,15 +10,12 @@ I am 19 years old. I am a Software Engineering Student in constant learning focu
 ## Languages and Technologies👨‍💻:
 <div>
   <div align = center>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,tailwind,javascript,react,typescript,nodejs"/>
-  </div>
-  <div align = center>
-  <img src="https://skillicons.dev/icons?i=,,vite,yarn,git,github,npm,express,,"/>
+  <img src="https://skillicons.dev/icons?i=vscode,mysql,html,css,tailwind,javascript,react,typescript,nodejs,git,github"/>
   </div>
 </div>
 
 ## Stats 📊:
-![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&layout=compact&theme=aura#gh-dark-mode-only)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3droVMarques&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 
 
