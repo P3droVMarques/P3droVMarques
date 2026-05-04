@@ -10,7 +10,7 @@ I am 19 years old. I am a Software Engineering Student in constant learning focu
 ## Languages and Technologies👨‍💻:
 <div>
   <div align = center>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,mysql,html,css,tailwind,react,nodejs,javascript,typescript,java,git,github,"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,mysql,html,css,tailwind,react,nodejs,javascript,typescript,java,git,github"/>
   </div>
 </div>
 
