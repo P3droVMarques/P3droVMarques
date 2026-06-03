@@ -15,6 +15,8 @@ I am 20 years old. I am a Software Engineering Student in constant learning focu
 </div>
 
 ## Stats 📊:
+<div> 
 <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=P3droVMarques&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
-
+<img height="195px" src="https://leetcard.jacoblin.cool/P3dro_Marques?theme=transparent&font=JetBrains%20Mono"/>
+</div> 
 
